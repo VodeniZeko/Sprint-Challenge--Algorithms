@@ -20,4 +20,4 @@ def count_th(word):
     return th_in_word + count_th(word[1:])
 
 
-print(count_th('sdsdgsgsgsgsgssd'))
+print(count_th('dvfdfvdddsd'))
